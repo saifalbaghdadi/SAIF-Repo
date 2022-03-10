@@ -9,8 +9,13 @@ I find it very important to make time for myself each day.
 To practice sport ( like Bodybuilding or Jogging ), enables that I can be with my own and take care of myself. I also enjoy to walk alone and listening to interesting podcasts at the same time. I can be funny and social but I need to feel comfortable with people first 😄
 Besides to do sport, in my free time I really like to read books and to go to event related to art (music events, exhibitions, etc.). 
 I am also a big fan of technology, space science, artificial intelligence and everything related to them, and I can engage in a whole day's discussion on these topics.
+
+
+<p align="center">
+
 #### One of my favorite quotes is from physicist Carl Sagan:
 #### “Somewhere, something incredible is waiting to be known.”
+</p>
 
 ## I'm just a normal person like everyone else 👋 
 
