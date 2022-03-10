@@ -34,7 +34,6 @@
 ---
 <img align="left" alt="saifalbaghdad's Github Stats" src="https://github-readme-stats.vercel.app/api?username=saifalbaghdadi&show_icons=true&hide_border=true" />
 
----
 ### Connect with me:
 
 [![website](./img/facebook.svg)](https://www.facebook.com/saifalbaghdadi6)
