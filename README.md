@@ -13,8 +13,6 @@
 
 <img align="left" alt="saifalbaghdad Github Stats" src="https://github-readme-stats.vercel.app/api?username=saifalbaghdadi&show_icons=true&hide_border=true" />
 
-<br>
-
 ### Connect with me:
 
 [![website](./img/facebook.svg)](https://www.facebook.com/saifalbaghdadi6)
@@ -28,6 +26,7 @@
 [![website](./img/youtube.svg)](https://www.youtube.com/channel/UCYA7Fq54Hos6u8nMpTy41lA)
 
 ---
+<br>
 ### Languages and Tools:
 
 [![website](./img/html.svg)](https://www.sololearn.com/Certificate/1014-23753440/jpg)
