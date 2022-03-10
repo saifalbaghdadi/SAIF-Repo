@@ -21,15 +21,19 @@
 
 ### Languages and Tools:
 
-[![website](./img/html.svg)](https://www.linkedin.com/in/saif-malkshahi)
+[![website](./img/html.svg)](https://www.sololearn.com/Certificate/1014-23753440/jpg)
 &nbsp;&nbsp;
 [![website](./img/css.svg)](https://www.sololearn.com/Certificate/1023-23753440/jpg)
+&nbsp;&nbsp;
+[![website](./img/php.svg)](https://twitter.com/saifalbaghdadi3)
+&nbsp;&nbsp;
+[![website](./img/javascript.svg)](https://twitter.com/saifalbaghdadi3)
 &nbsp;&nbsp;
 [![website](./img/python.svg)](https://twitter.com/saifalbaghdadi3)
 &nbsp;&nbsp;
 [![website](./img/java.svg)](https://twitter.com/saifalbaghdadi3)
 &nbsp;&nbsp;
-[![website](./img/vs-code.svg)](https://code.visualstudio.com)
+[![website](./img/vscode.svg)](https://code.visualstudio.com)
 &nbsp;&nbsp;
 [![website](./img/github2.svg)](https://www.youtube.com/channel/UCYA7Fq54Hos6u8nMpTy41lA)
 
