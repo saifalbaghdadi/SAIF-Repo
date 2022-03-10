@@ -1,4 +1,4 @@
-# I'm Saif Malkshahi , 
+# I'm Saif Malkshahi
 ## I'm just a normal person like everyone else 👋 
 
 - 🔭 Previously, I was a software engineer 😅
@@ -48,7 +48,3 @@
 [![website](./img/twitter.svg)](https://twitter.com/saifalbaghdadi3)
 &nbsp;&nbsp;
 [![website](./img/youtube.svg)](https://www.youtube.com/channel/UCYA7Fq54Hos6u8nMpTy41lA)
-
-<br>
-
----
