@@ -11,7 +11,7 @@ Besides to do sport, in my free time I really like to read books and to go to ev
 I am also a big fan of technology, space science, artificial intelligence and everything related to them, and I can engage in a whole day's discussion on these topics.
 
 #### One of my favorite quotes is from physicist Carl Sagan:
-** “Somewhere, something incredible is waiting to be known.” **
+**“Somewhere, something incredible is waiting to be known.”**
 
 
 ## I'm just a normal person like everyone else 👋 
