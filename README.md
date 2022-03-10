@@ -27,7 +27,7 @@
 [![website](./img/github2.svg)](https://github.com/saifalbaghdadi)
 
 ---
-<img align="left" alt="saifalbaghdad's Github Stats" src="https://github-readme-stats.vercel.app/api?username=saifalbaghdadi&show_icons=true&hide_border=true" />
+<img align="left" alt="saifalbaghdad Github Stats" src="https://github-readme-stats.vercel.app/api?username=saifalbaghdadi&show_icons=true&hide_border=true" />
 
 ### Connect with me:
 
@@ -40,3 +40,5 @@
 [![website](./img/twitter.svg)](https://twitter.com/saifalbaghdadi3)
 &nbsp;&nbsp;
 [![website](./img/youtube.svg)](https://www.youtube.com/channel/UCYA7Fq54Hos6u8nMpTy41lA)
+
+---
