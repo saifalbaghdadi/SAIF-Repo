@@ -21,27 +21,6 @@ I am also a big fan of technology, space science, artificial intelligence and ev
 - 🥅 2022 Goals: Learn more about data science and AI.
 - ⚡ Fun fact: I love to draw and play guitar.
 
-
-## The three things I like the most in this universe
-- Space Science
-- New Technologies
-- Healthy food
-
-## I look forward to:
-- Deepening my knowledge in New Technology.
-- Build my first Robot .
-- Practice my English with the Becode people from abroad.
-- Looking for a new interesting job in IT.
-
-## Three things I value the most to work as a team:
-- Communication.
-- The possibility for everyone to experiment and try everything.
-- Structure, clarity in tasks and work division.
-
-## Fears I might have:
-- Being stuck during hours with the same bug.
-- Having trouble to reach for help.
-- Forgetting to feed the birds when I get home late.
 ---
 
 <img align="right" alt="saifalbaghdad Github Stats" src="https://github-readme-stats.vercel.app/api?username=saifalbaghdadi&show_icons=true&hide_border=true" />
@@ -68,6 +47,29 @@ I am also a big fan of technology, space science, artificial intelligence and ev
 <br>
 <br>
 <br>
+
+---
+
+## The three things I like the most in this universe
+- Space Science
+- New Technologies
+- Healthy food
+
+## I look forward to:
+- Deepening my knowledge in New Technology.
+- Build my first Robot .
+- Practice my English with the Becode people from abroad.
+- Looking for a new interesting job in IT.
+
+## Three things I value the most to work as a team:
+- Communication.
+- The possibility for everyone to experiment and try everything.
+- Structure, clarity in tasks and work division.
+
+## Fears I might have:
+- Being stuck during hours with the same bug.
+- Having trouble to reach for help.
+- Forgetting to feed the birds when I get home late.
 
 ---
 ## Connect with me:
