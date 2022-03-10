@@ -86,3 +86,18 @@ I am also a big fan of technology, space science, artificial intelligence and ev
 [![website](./img/twitter.svg)](https://twitter.com/saifalbaghdadi3)
 &nbsp;&nbsp;
 [![website](./img/youtube.svg)](https://www.youtube.com/channel/UCYA7Fq54Hos6u8nMpTy41lA)
+
+
+<img src="https://cdn.pixabay.com/photo/2021/09/03/15/37/mountain-6596074_1280.jpg" width="100px"> Hiking  
+<img src="https://cdn.pixabay.com/photo/2014/09/05/18/32/old-books-436498_1280.jpg" width="100px"> Reading  
+<img src="https://cdn.pixabay.com/photo/2015/04/20/13/17/work-731198_1280.jpg" width="100px"> Programming  
+
+or
+
+<img src="https://cdn.pixabay.com/photo/2021/09/03/15/37/mountain-6596074_1280.jpg" width="100px"> <img src="https://cdn.pixabay.com/photo/2014/09/05/18/32/old-books-436498_1280.jpg" width="100px"> <img src="https://cdn.pixabay.com/photo/2015/04/20/13/17/work-731198_1280.jpg" width="100px">
+
+---
+<p align="center"> © 2021 Creative Tim, all rights reserved. Made with ❤️ for a better web. </p>
+<p align="center">
+https://www.creative-tim.com
+</p>
