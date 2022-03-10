@@ -1,14 +1,13 @@
 # I'm Saif Malkshahi , I'm just a normal person like everyone else 👋 
 
 - 🔭 Previously, I was a software engineer 😅
-- 👨‍🎓 Now , I pursuing a course in data science at Becode.org: [CodeCats] (https://becode.org)
+- 👨‍🎓 Now , I pursuing a course in data science at Becode.org: [![website](./img/Becode.svg)](https://becode.org)
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2022 Goals: Learn more about data science and AI
 - ⚡ Fun fact: I love to draw and play guitar.
 
 ### Connect with me:
-
 
 [![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/saif-malkshahi)
 &nbsp;&nbsp;
