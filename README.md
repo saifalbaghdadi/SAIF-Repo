@@ -1,8 +1,5 @@
-
-
 [![160744959694494596](./img/logo.png)](https://github.com/saifalbaghdadi?tab=repositories)
 
-<p align="center">
 
 ## Who I am
 
