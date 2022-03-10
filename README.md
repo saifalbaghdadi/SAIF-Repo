@@ -34,7 +34,6 @@
 &nbsp;&nbsp;
 [![website](./img/github2.svg)](https://github.com/saifalbaghdadi)
 
----
 ### Connect with me:
 
 [![website](./img/facebook.svg)](https://www.facebook.com/saifalbaghdadi6)
