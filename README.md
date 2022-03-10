@@ -45,3 +45,5 @@
 ---
 
 ### 📺 Latest YouTube Videos
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?saifalbaghdadi=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
