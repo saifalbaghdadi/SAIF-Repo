@@ -92,4 +92,4 @@ I am also a big fan of technology, space science, artificial intelligence and ev
 [![website](./img/youtube.svg)](https://www.youtube.com/channel/UCYA7Fq54Hos6u8nMpTy41lA)
 
 ---
-<h3 align="center"> Thank you for watching my profile ❤️ </h3>
+<h4 align="center"> Thank you for watching my profile ❤️ </h4>
