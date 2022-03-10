@@ -31,7 +31,7 @@
 &nbsp;&nbsp;
 [![website](./img/vs-code.svg)](https://code.visualstudio.com)
 &nbsp;&nbsp;
-[![website](./img/github.svg)](https://www.youtube.com/channel/UCYA7Fq54Hos6u8nMpTy41lA)
+[![website](./img/github2.svg)](https://www.youtube.com/channel/UCYA7Fq54Hos6u8nMpTy41lA)
 
 
 <br />
