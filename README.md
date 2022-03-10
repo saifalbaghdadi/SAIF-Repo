@@ -9,7 +9,7 @@
 
 ### Connect with me:
 
-[![website](./img/facebook-dark.svg)](https://codestackr.com#gh-light-mode-only)
+[![website](./img/facebook-light.svg)](https://codestackr.com#gh-light-mode-only)
 [![website](./img/facebook-dark.svg)](https://codestackr.com#gh-dark-mode-only)
 &nbsp;&nbsp;
 [![website](./img/youtube-light.svg)](https://youtube.com/codestackr#gh-light-mode-only)
