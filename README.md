@@ -8,17 +8,6 @@
 - 🥅 2022 Goals: Learn more about data science and AI.
 - ⚡ Fun fact: I love to draw and play guitar.
 
-### Connect with me:
-
-[![website](./img/facebook.svg)](https://www.facebook.com/saifalbaghdadi6)
-&nbsp;&nbsp;
-[![website](./img/linkedin.svg)](https://www.linkedin.com/in/saif-malkshahi)
-&nbsp;&nbsp;
-[![website](./img/instagram.svg)](https://www.instagram.com/saifalbaghdadi3)
-&nbsp;&nbsp;
-[![website](./img/twitter.svg)](https://twitter.com/saifalbaghdadi3)
-&nbsp;&nbsp;
-[![website](./img/youtube.svg)](https://www.youtube.com/channel/UCYA7Fq54Hos6u8nMpTy41lA)
 
 ### Languages and Tools:
 
@@ -37,13 +26,22 @@
 [![website](./img/vscode.svg)](https://code.visualstudio.com)
 &nbsp;&nbsp;
 [![website](./img/github2.svg)](https://github.com/saifalbaghdadi)
+### Connect with me:
+
+[![website](./img/facebook.svg)](https://www.facebook.com/saifalbaghdadi6)
+&nbsp;&nbsp;
+[![website](./img/linkedin.svg)](https://www.linkedin.com/in/saif-malkshahi)
+&nbsp;&nbsp;
+[![website](./img/instagram.svg)](https://www.instagram.com/saifalbaghdadi3)
+&nbsp;&nbsp;
+[![website](./img/twitter.svg)](https://twitter.com/saifalbaghdadi3)
+&nbsp;&nbsp;
+[![website](./img/youtube.svg)](https://www.youtube.com/channel/UCYA7Fq54Hos6u8nMpTy41lA)
+
+
 
 <br />
 
 ---
 
 ### 📺 Latest YouTube Videos
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
