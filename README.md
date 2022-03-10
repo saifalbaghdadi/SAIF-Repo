@@ -1,4 +1,4 @@
-# I'm Saif Malkshahi ,I'm just a normal person like everyone else 👋 
+# I'm Saif Malkshahi , ## I'm just a normal person like everyone else 👋 
 
 - 🔭 Previously, I was a software engineer 😅
 - 👨‍🎓 Now , I pursuing a course in data science at Becode.org: [CodeCats] (https://becode.org)
