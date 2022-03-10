@@ -48,3 +48,7 @@
 &nbsp;&nbsp;
 [![website](./img/github2.svg)](https://github.com/saifalbaghdadi)
 <br>
+
+---
+<img align="right" alt="saifalbaghdad Github Stats" src="https://github-readme-stats.vercel.app/api?username=saifalbaghdadi&show_icons=true&hide_border=true" />
+<br>
