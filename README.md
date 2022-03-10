@@ -29,6 +29,7 @@
 
 ---
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/saifalbaghdadi/github-readme-stats)
+
 ---
 
 
@@ -52,4 +53,6 @@
 
 ### 📺 Latest YouTube Videos
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/saifalbaghdadi/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/saifalbaghdadi/github-readme-stats)
