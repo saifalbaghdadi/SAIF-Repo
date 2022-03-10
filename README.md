@@ -3,7 +3,7 @@
 - 🔭 Previously, I was a software engineer 😅
 - 👨‍🎓 Now , I pursuing a course in data science at Becode.org https://becode.org
 - 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other content creators [![Becode](./img/b-code.PNG)](https://becode.org)
+- 👯 I’m looking to collaborate with other content creators [![Becode]](https://becode.org)
 - 🥅 2022 Goals: Learn more about data science and AI
 - ⚡ Fun fact: I love to draw and play guitar.
 
