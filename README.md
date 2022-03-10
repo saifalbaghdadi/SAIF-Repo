@@ -7,11 +7,6 @@
 - 👯 I’m looking to collaborate with other content creators.
 - 🥅 2022 Goals: Learn more about data science and AI.
 - ⚡ Fun fact: I love to draw and play guitar.
-
----
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/saifalbaghdadi/github-readme-stats)
-
 ---
 ### Languages and Tools:
 
