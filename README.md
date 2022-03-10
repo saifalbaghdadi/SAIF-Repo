@@ -39,7 +39,6 @@
 [![website](./img/javascript.svg)](https://www.sololearn.com/certificates/course/en/23753440/1024/landscape/png)
 &nbsp;&nbsp;
 [![website](./img/python.svg)](https://www.python.org)
-<br>
 &nbsp;&nbsp;
 [![website](./img/java.svg)](https://www.java.com/en)
 &nbsp;&nbsp;
