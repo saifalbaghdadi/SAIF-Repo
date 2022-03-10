@@ -28,7 +28,6 @@
 [![website](./img/github2.svg)](https://github.com/saifalbaghdadi)
 
 ---
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/saifalbaghdadi/github-readme-stats)
 
 ---
 
