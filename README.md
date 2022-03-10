@@ -28,7 +28,10 @@
 [![website](./img/github2.svg)](https://github.com/saifalbaghdadi)
 
 ---
-[](https://github.com/saifalbaghdadi/github-readme-stats)
+
+![SAIF GitHub stats](https://github-readme-stats.vercel.app/api?username=SAIF&show_icons=true&theme=radical)
+
+[![SAIF GitHub stats](https://github-readme-stats.vercel.app/api?username=SAIF)](https://github.com/saifalbaghdadi/github-readme-stats)
 
 ---
 
@@ -52,7 +55,3 @@
 ---
 
 ### 📺 Latest YouTube Videos
-
-![SAIF GitHub stats](https://github-readme-stats.vercel.app/api?username=SAIF&show_icons=true&theme=radical)
-
-[![SAIF GitHub stats](https://github-readme-stats.vercel.app/api?username=SAIF)](https://github.com/saifalbaghdadi/github-readme-stats)
