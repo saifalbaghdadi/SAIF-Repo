@@ -1,6 +1,5 @@
 [![160744959694494596](./img/logo.png)](https://github.com/saifalbaghdadi?tab=repositories)
 
-
 ## Who I am
 
 My name is **Saif Malkshahi** , I am a junior Data Science at [Becode.org](https://becode.org) and I am passionate about AI and Data.
