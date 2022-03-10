@@ -1,4 +1,9 @@
 
+
+[![160744959694494596](./img/html.png)](https://github.com/saifalbaghdadi?tab=repositories)
+
+<p align="center">
+
 ## Who I am
 
 My name is **Saif Malkshahi** , I am a junior Data Science at [Becode.org](https://becode.org) and I am passionate about AI and Data.
@@ -31,7 +36,7 @@ I am also a big fan of technology, space science, artificial intelligence and ev
 
 <img align="right" alt="saifalbaghdad Github Stats" src="https://github-readme-stats.vercel.app/api?username=saifalbaghdadi&show_icons=true&hide_border=true" />
 
-## Skills:
+## Skills & Endorsements:
 
 <br>
 
