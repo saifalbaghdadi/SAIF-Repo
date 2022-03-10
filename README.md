@@ -73,6 +73,8 @@ I am also a big fan of technology, space science, artificial intelligence and ev
 ## Connect with me:
 <br>
 
+<img align="right" alt="saifalbaghdad Github Stats" src="https://github-readme-stats.vercel.app/api?username=saifalbaghdadi&show_icons=true&hide_border=true" />
+
 [![website](./img/facebook.svg)](https://www.facebook.com/saifalbaghdadi6)
 &nbsp;&nbsp;
 [![website](./img/linkedin.svg)](https://www.linkedin.com/in/saif-malkshahi)
