@@ -8,6 +8,8 @@
 - 🥅 2022 Goals: Learn more about data science and AI.
 - ⚡ Fun fact: I love to draw and play guitar.
 
+---
+
 <img align="right" alt="saifalbaghdad Github Stats" src="https://github-readme-stats.vercel.app/api?username=saifalbaghdadi&show_icons=true&hide_border=true" />
 
 ### Languages and Tools:
@@ -28,6 +30,9 @@
 &nbsp;&nbsp;
 [![website](./img/github2.svg)](https://github.com/saifalbaghdadi)
 <br>
+<br>
+
+
 ---
 <img align="left" alt="saifalbaghdad Github Stats" src="https://github-readme-stats.vercel.app/api?username=saifalbaghdadi&show_icons=true&hide_border=true" />
 <br>
