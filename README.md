@@ -25,18 +25,17 @@
 &nbsp;&nbsp;
 [![website](./img/css.svg)](https://www.sololearn.com/Certificate/1023-23753440/jpg)
 &nbsp;&nbsp;
-[![website](./img/php.svg)](https://twitter.com/saifalbaghdadi3)
+[![website](./img/php.svg)](https://www.sololearn.com/Certificate/1059-23753440/jpg)
 &nbsp;&nbsp;
-[![website](./img/javascript.svg)](https://twitter.com/saifalbaghdadi3)
+[![website](./img/javascript.svg)](https://www.sololearn.com/certificates/course/en/23753440/1024/landscape/png)
 &nbsp;&nbsp;
-[![website](./img/python.svg)](https://twitter.com/saifalbaghdadi3)
+[![website](./img/python.svg)](https://www.python.org)
 &nbsp;&nbsp;
-[![website](./img/java.svg)](https://twitter.com/saifalbaghdadi3)
+[![website](./img/java.svg)](https://www.java.com/en)
 &nbsp;&nbsp;
 [![website](./img/vscode.svg)](https://code.visualstudio.com)
 &nbsp;&nbsp;
-[![website](./img/github2.svg)](https://www.youtube.com/channel/UCYA7Fq54Hos6u8nMpTy41lA)
-
+[![website](./img/github2.svg)](https://github.com/saifalbaghdadi)
 
 <br />
 <br />
