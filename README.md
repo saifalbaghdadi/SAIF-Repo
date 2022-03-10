@@ -62,10 +62,10 @@ I am also a big fan of technology, space science, artificial intelligence and ev
 - 🍉 Healthy food 
 
 ## I look forward to:
--    Deepening my knowledge in New Technology.
-- 🤖 Build my first Robot 
--    Practice my English with the Becode people from abroad.
--    Looking for a new interesting job in IT.
+- Deepening my knowledge in New Technology.
+- Build my first Robot 🤖
+- Practice my English with the Becode people from abroad.
+- Looking for a new interesting job in IT.
 
 ## Three things I value the most to work as a team:
 - Communication.
@@ -73,15 +73,15 @@ I am also a big fan of technology, space science, artificial intelligence and ev
 - Structure, clarity in tasks and work division.
 
 ## Fears I might have:
--    Being stuck during hours with the same bug.
--    Having trouble to reach for help.
-- 🦜 Forgetting to feed the birds when I get home late.
+- Being stuck during hours with the same bug.
+- Having trouble to reach for help.
+- Forgetting to feed the birds when I get home late 🦜
 
 ---
 ## Connect with me:
 <br>
 
-[![website](./img/facebook.svg)](https://www.facebook.com/saifalbaghdadi6)
+<p align="center"> [![website](./img/facebook.svg)](https://www.facebook.com/saifalbaghdadi6) </p>
 &nbsp;&nbsp;
 [![website](./img/linkedin.svg)](https://www.linkedin.com/in/saif-malkshahi)
 &nbsp;&nbsp;
