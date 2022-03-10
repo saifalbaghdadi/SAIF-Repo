@@ -9,12 +9,12 @@ To practice sport ( like Bodybuilding or Jogging ), enables that I can be with m
 I also enjoy to walk alone and listening to interesting podcasts at the same time. 
 I can be funny and social but I need to feel comfortable with people first 😄
 Besides to do sport, in my free time I really like to read books and to go to event related to art (music events, exhibitions, etc.).
+
 I am also a big fan of technology, space science, artificial intelligence and everything related to them, and I can engage in a whole day's discussion on these topics.
 
 #### One of my favorite quotes is from physicist Carl Sagan:
 
 <h4 align="center"> “Somewhere, something incredible is waiting to be known.” </h4>
-
 
 ---
 
@@ -57,15 +57,15 @@ I am also a big fan of technology, space science, artificial intelligence and ev
 ---
 
 ## The three things I like the most in this universe
-- Space Science
-- New Technologies
-- Healthy food
+- 🌌 Space Science 
+- 🚀 New Technologies 
+- 🍉 Healthy food 
 
 ## I look forward to:
-- Deepening my knowledge in New Technology.
-- Build my first Robot .
-- Practice my English with the Becode people from abroad.
-- Looking for a new interesting job in IT.
+-    Deepening my knowledge in New Technology.
+- 🤖 Build my first Robot 
+-    Practice my English with the Becode people from abroad.
+-    Looking for a new interesting job in IT.
 
 ## Three things I value the most to work as a team:
 - Communication.
@@ -73,9 +73,9 @@ I am also a big fan of technology, space science, artificial intelligence and ev
 - Structure, clarity in tasks and work division.
 
 ## Fears I might have:
-- Being stuck during hours with the same bug.
-- Having trouble to reach for help.
-- Forgetting to feed the birds when I get home late.
+-    Being stuck during hours with the same bug.
+-    Having trouble to reach for help.
+- 🦜 Forgetting to feed the birds when I get home late.
 
 ---
 ## Connect with me:
@@ -92,16 +92,5 @@ I am also a big fan of technology, space science, artificial intelligence and ev
 [![website](./img/youtube.svg)](https://www.youtube.com/channel/UCYA7Fq54Hos6u8nMpTy41lA)
 
 
-<img src="https://cdn.pixabay.com/photo/2021/09/03/15/37/mountain-6596074_1280.jpg" width="100px"> Hiking  
-<img src="https://cdn.pixabay.com/photo/2014/09/05/18/32/old-books-436498_1280.jpg" width="100px"> Reading  
-<img src="https://cdn.pixabay.com/photo/2015/04/20/13/17/work-731198_1280.jpg" width="100px"> Programming  
-
-or
-
-<img src="https://cdn.pixabay.com/photo/2021/09/03/15/37/mountain-6596074_1280.jpg" width="100px"> <img src="https://cdn.pixabay.com/photo/2014/09/05/18/32/old-books-436498_1280.jpg" width="100px"> <img src="https://cdn.pixabay.com/photo/2015/04/20/13/17/work-731198_1280.jpg" width="100px">
-
 ---
-<p align="center"> © 2021 Creative Tim, all rights reserved. Made with ❤️ for a better web. </p>
-<p align="center">
-https://www.creative-tim.com
-</p>
+<h3 align="center"> Thank you for watching my profile ❤️ </h3>
