@@ -1,4 +1,18 @@
 # I'm Saif Malkshahi
+
+## Who I am
+
+I am a junior Data Science at Becode and I am passionate about AI and Data.
+If I would have to describe my character, I would say that I am a little bit a mix of an introvert/extravert. 
+I like to be surrounded with people but I also appreciate to be alone.
+I find it very important to make time for myself each day. 
+To practice sport ( like Bodybuilding or Jogging ), enables that I can be with my own and take care of myself. I also enjoy to walk alone and listening to interesting podcasts at the same time. I can be funny and social but I need to feel comfortable with people first 😄
+
+Besides to do sport, in my free time I really like to read books and to go to event related to art (music events, exhibitions, etc.). 
+I am also a big fan of technology, space science, artificial intelligence and everything related to them, and I can engage in a whole day's discussion on these topics.
+One of my favorite quotes is from physicist Carl Sagan:
+“Somewhere, something incredible is waiting to be known.”
+
 ## I'm just a normal person like everyone else 👋 
 
 - 🔭 Previously, I was a software engineer 😅
@@ -8,6 +22,27 @@
 - 🥅 2022 Goals: Learn more about data science and AI.
 - ⚡ Fun fact: I love to draw and play guitar.
 
+
+## The three things I like the most in this universe
+- Space Science
+- New Technologies
+- Healthy food
+
+## I look forward to:
+- Deepening my knowledge in New Technology.
+- Build my first Robot .
+- Practice my English with the Becode people from abroad.
+- Looking for a new interesting job in IT.
+
+## Three things I value the most to work as a team:
+- Communication.
+- The possibility for everyone to experiment and try everything.
+- Structure, clarity in tasks and work division.
+
+## Fears I might have:
+- Being stuck during hours with the same bug.
+- Having trouble to reach for help.
+- Forgetting to feed the birds when I get home late.
 ---
 
 <img align="right" alt="saifalbaghdad Github Stats" src="https://github-readme-stats.vercel.app/api?username=saifalbaghdadi&show_icons=true&hide_border=true" />
