@@ -9,27 +9,29 @@
 
 ### Connect with me:
 
-[![website](./img/facebook-light.svg)](https://www.facebook.com/saifalbaghdadi6)
+[![website](./img/facebook.svg)](https://www.facebook.com/saifalbaghdadi6)
 &nbsp;&nbsp;
-[![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/saif-malkshahi)
+[![website](./img/linkedin.svg)](https://www.linkedin.com/in/saif-malkshahi)
 &nbsp;&nbsp;
-[![website](./img/instagram-light.svg)](https://www.instagram.com/saifalbaghdadi3)
+[![website](./img/instagram.svg)](https://www.instagram.com/saifalbaghdadi3)
 &nbsp;&nbsp;
-[![website](./img/twitter-light.svg)](https://twitter.com/saifalbaghdadi3)
+[![website](./img/twitter.svg)](https://twitter.com/saifalbaghdadi3)
 &nbsp;&nbsp;
-[![website](./img/youtube-light.svg)](https://www.youtube.com/channel/UCYA7Fq54Hos6u8nMpTy41lA)
+[![website](./img/youtube.svg)](https://www.youtube.com/channel/UCYA7Fq54Hos6u8nMpTy41lA)
 
 ### Languages and Tools:
 
-[![website](./img/vs-code.svg)](https://www.youtube.com/channel/UCYA7Fq54Hos6u8nMpTy41lA)
-&nbsp;&nbsp;
 [![website](./img/html.svg)](https://www.linkedin.com/in/saif-malkshahi)
 &nbsp;&nbsp;
 [![website](./img/css.svg)](https://www.instagram.com/saifalbaghdadi3)
 &nbsp;&nbsp;
-[![website](./img/twitter-light.svg)](https://twitter.com/saifalbaghdadi3)
+[![website](./img/python.svg)](https://twitter.com/saifalbaghdadi3)
 &nbsp;&nbsp;
-[![website](./img/youtube-light.svg)](https://www.youtube.com/channel/UCYA7Fq54Hos6u8nMpTy41lA)
+[![website](./img/java.svg)](https://twitter.com/saifalbaghdadi3)
+&nbsp;&nbsp;
+[![website](./img/vs-code.svg)](https://code.visualstudio.com)
+&nbsp;&nbsp;
+[![website](./img/github.svg)](https://www.youtube.com/channel/UCYA7Fq54Hos6u8nMpTy41lA)
 
 
 <br />
