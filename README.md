@@ -7,7 +7,26 @@
 - 👯 I’m looking to collaborate with other content creators.
 - 🥅 2022 Goals: Learn more about data science and AI.
 - ⚡ Fun fact: I love to draw and play guitar.
+
+
 ---
+
+<img align="left" alt="saifalbaghdad Github Stats" src="https://github-readme-stats.vercel.app/api?username=saifalbaghdadi&show_icons=true&hide_border=true" />
+
+### Connect with me:
+
+[![website](./img/facebook.svg)](https://www.facebook.com/saifalbaghdadi6)
+&nbsp;&nbsp;
+[![website](./img/linkedin.svg)](https://www.linkedin.com/in/saif-malkshahi)
+&nbsp;&nbsp;
+[![website](./img/instagram.svg)](https://www.instagram.com/saifalbaghdadi3)
+&nbsp;&nbsp;
+[![website](./img/twitter.svg)](https://twitter.com/saifalbaghdadi3)
+&nbsp;&nbsp;
+[![website](./img/youtube.svg)](https://www.youtube.com/channel/UCYA7Fq54Hos6u8nMpTy41lA)
+
+---
+
 ### Languages and Tools:
 
 [![website](./img/html.svg)](https://www.sololearn.com/Certificate/1014-23753440/jpg)
@@ -25,20 +44,3 @@
 [![website](./img/vscode.svg)](https://code.visualstudio.com)
 &nbsp;&nbsp;
 [![website](./img/github2.svg)](https://github.com/saifalbaghdadi)
-
----
-<img align="left" alt="saifalbaghdad Github Stats" src="https://github-readme-stats.vercel.app/api?username=saifalbaghdadi&show_icons=true&hide_border=true" />
-
-### Connect with me:
-
-[![website](./img/facebook.svg)](https://www.facebook.com/saifalbaghdadi6)
-&nbsp;&nbsp;
-[![website](./img/linkedin.svg)](https://www.linkedin.com/in/saif-malkshahi)
-&nbsp;&nbsp;
-[![website](./img/instagram.svg)](https://www.instagram.com/saifalbaghdadi3)
-&nbsp;&nbsp;
-[![website](./img/twitter.svg)](https://twitter.com/saifalbaghdadi3)
-&nbsp;&nbsp;
-[![website](./img/youtube.svg)](https://www.youtube.com/channel/UCYA7Fq54Hos6u8nMpTy41lA)
-
----
