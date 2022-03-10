@@ -12,8 +12,8 @@ I am also a big fan of technology, space science, artificial intelligence and ev
 
 #### One of my favorite quotes is from physicist Carl Sagan:
 
-
-<h1 align="center"> “Somewhere, something incredible is waiting to be known.” </h1>
+<h3 align="center"> “Somewhere, something incredible is waiting to be known.” </h3>
+<br>
 
 ## I'm just a normal person like everyone else 👋 
 
