@@ -27,6 +27,7 @@
 
 ---
 <br>
+
 ### Languages and Tools:
 
 [![website](./img/html.svg)](https://www.sololearn.com/Certificate/1014-23753440/jpg)
