@@ -26,6 +26,12 @@
 [![website](./img/vscode.svg)](https://code.visualstudio.com)
 &nbsp;&nbsp;
 [![website](./img/github2.svg)](https://github.com/saifalbaghdadi)
+
+---
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/saifalbaghdadi/github-readme-stats)
+---
+
+
 ### Connect with me:
 
 [![website](./img/facebook.svg)](https://www.facebook.com/saifalbaghdadi6)
@@ -46,4 +52,3 @@
 
 ### 📺 Latest YouTube Videos
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?saifalbaghdadi=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
