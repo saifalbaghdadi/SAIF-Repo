@@ -3,8 +3,8 @@
 - 🔭 Previously, I was a software engineer 😅
 - 👨‍🎓 Now , I pursuing a course in data science at Becode.org [![website](./img/Becode.svg)](https://becode.org)
 - 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other content creators [<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />][webdevplaylist]
-- 🥅 2022 Goals: Learn more about data science and AI <link rel="dns-prefetch" href="https://github.githubassets.com">
+- 👯 I’m looking to collaborate with other content creators [src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />][webdevplaylist]
+- 🥅 2022 Goals: Learn more about data science and AI
 - ⚡ Fun fact: I love to draw and play guitar.
 
 ### Connect with me:
