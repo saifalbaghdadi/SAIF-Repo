@@ -26,7 +26,7 @@
 &nbsp;&nbsp;
 [![website](./img/python.svg)](https://www.python.org)
 &nbsp;&nbsp;
-[![website](./img/java.svg)](https://www.java.com/en)
+[![website](./img/java.svg)](https://www.oracle.com/index.html)
 &nbsp;&nbsp;
 [![website](./img/vscode.svg)](https://code.visualstudio.com)
 &nbsp;&nbsp;
