@@ -1,8 +1,7 @@
-# I'm Saif Malkshahi
 
 ## Who I am
 
-Im **Saif Malkshahi** , I am a junior Data Science at Becode and I am passionate about AI and Data.
+My name is **Saif Malkshahi** , I am a junior Data Science at Becode and I am passionate about AI and Data.
 If I would have to describe my character, I would say that I am a little bit a mix of an introvert/extravert. 
 I like to be surrounded with people but I also appreciate to be alone.
 I find it very important to make time for myself each day. 
