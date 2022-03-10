@@ -28,7 +28,7 @@
 [![website](./img/github2.svg)](https://github.com/saifalbaghdadi)
 
 ---
-[![SAIF GitHub stats](https://github-readme-stats.vercel.app/api?username=SAIFghazra)](https://github.com/saifalbaghdadi/github-readme-stats)
+[](https://github.com/saifalbaghdadi/github-readme-stats)
 
 ---
 
