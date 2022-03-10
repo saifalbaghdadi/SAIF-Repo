@@ -8,7 +8,13 @@
 - 🥅 2022 Goals: Learn more about data science and AI.
 - ⚡ Fun fact: I love to draw and play guitar.
 
+---
 
+![SAIF GitHub stats](https://github-readme-stats.vercel.app/api?username=SAIF&show_icons=true&theme=radical)
+
+[![SAIF GitHub stats](https://github-readme-stats.vercel.app/api?username=SAIF)](https://github.com/saifalbaghdadi/github-readme-stats)
+
+---
 ### Languages and Tools:
 
 [![website](./img/html.svg)](https://www.sololearn.com/Certificate/1014-23753440/jpg)
@@ -26,14 +32,6 @@
 [![website](./img/vscode.svg)](https://code.visualstudio.com)
 &nbsp;&nbsp;
 [![website](./img/github2.svg)](https://github.com/saifalbaghdadi)
-
----
-
-![SAIF GitHub stats](https://github-readme-stats.vercel.app/api?username=SAIF&show_icons=true&theme=radical)
-
-[![SAIF GitHub stats](https://github-readme-stats.vercel.app/api?username=SAIF)](https://github.com/saifalbaghdadi/github-readme-stats)
-
----
 
 
 ### Connect with me:
