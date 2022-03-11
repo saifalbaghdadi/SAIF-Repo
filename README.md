@@ -91,5 +91,12 @@ I am also a big fan of technology, space science, artificial intelligence and ev
 
 <br>
 
+<p align="left">
+<a href="https://www.facebook.com/saifalbaghdadi6" target="blank"><img align="center" src="./img/facebook2.svg" alt="gautamkrishnar" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/saif-malkshahi" target="blank"><img align="center" src="./img/linkedin2.svg" alt="gautamkrishnar" height="30" width="40" /></a>
+<a href="https://www.instagram.com/saifalbaghdadi3" target="blank"><img align="center" src="./img/instagram2.svg" alt="gautamkrishnar" height="30" width="40" /></a>
+<a href="https://twitter.com/saifalbaghdadi3" target="blank"><img align="center" src="./img/twitter2.svg" alt="4214976" height="30" width="40" /></a>
+<a href="https://www.youtube.com/channel/UCYA7Fq54Hos6u8nMpTy41lA" target="blank"><img align="center" src="./img/youtube2.svg" alt="gautamkrishnar" height="30" width="40" /></a>
+
 ---
 <h4 align="center"> Thank you for watching my profile ❤️ </h4>
