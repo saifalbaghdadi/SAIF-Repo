@@ -85,9 +85,9 @@ I am also a big fan of technology, space science, artificial intelligence and ev
 <a href="https://www.instagram.com/saifalbaghdadi3" target="blank"><img align="center" src="./img/instagram.svg" alt="gautamkrishnar" height="30" width="40" /></a>
 <a href="https://twitter.com/saifalbaghdadi3" target="blank"><img align="center" src="./img/twitter.svg" alt="4214976" height="30" width="40" /></a>
 <a href="https://www.youtube.com/channel/UCYA7Fq54Hos6u8nMpTy41lA" target="blank"><img align="center" src="./img/youtube.svg" alt="gautamkrishnar" height="30" width="40" /></a>
-
+<br>
 <br>
 
 ---
-<br>
+
 <h4 align="right"> Thank you for watching my profile ❤️ </h4>
