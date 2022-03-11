@@ -90,4 +90,4 @@ I am also a big fan of technology, space science, artificial intelligence and ev
 
 ---
 
-<h4 align="center"> ❤️ Thank you for watching my profile ❤️ </h4>
+<h4 align="center"> ❤️ Thank you to watching my profile ❤️ </h4>
