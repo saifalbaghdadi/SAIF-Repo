@@ -11,7 +11,7 @@ I also enjoy to walk alone and listening to interesting podcasts at the same tim
 I can be funny and social but I need to feel comfortable with people first 😄
 Besides to do sport, in my free time I really like to read books and to go to event related to art (music events, exhibitions, etc.).
 I am also a big fan of technology, space science, artificial intelligence and everything related to them, and I can engage in a whole day's discussion on these topics.
-#### One of my favorite Quotes is from physicist Carl Sagan:
+#### One of my favorite Quotes for physicist Carl Sagan:
 <h4 align="center"> “Somewhere, something incredible is waiting to be known.” </h4>
 
 ---
