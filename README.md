@@ -79,24 +79,12 @@ I am also a big fan of technology, space science, artificial intelligence and ev
 ## Connect with me:
 <br>
 
-[![website](./img/facebook.svg)](https://www.facebook.com/saifalbaghdadi6) 
-&nbsp;&nbsp;
-[![website](./img/linkedin.svg)](https://www.linkedin.com/in/saif-malkshahi)
-&nbsp;&nbsp;
-[![website](./img/instagram.svg)](https://www.instagram.com/saifalbaghdadi3)
-&nbsp;&nbsp;
-[![website](./img/twitter.svg)](https://twitter.com/saifalbaghdadi3)
-&nbsp;&nbsp;
-[![website](./img/youtube.svg)](https://www.youtube.com/channel/UCYA7Fq54Hos6u8nMpTy41lA)
-
-<br>
-
-<p align="left">
-<a href="https://www.facebook.com/saifalbaghdadi6" target="blank"><img align="center" src="./img/facebook2.svg" alt="gautamkrishnar" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/saif-malkshahi" target="blank"><img align="center" src="./img/linkedin2.svg" alt="gautamkrishnar" height="30" width="40" /></a>
-<a href="https://www.instagram.com/saifalbaghdadi3" target="blank"><img align="center" src="./img/instagram2.svg" alt="gautamkrishnar" height="30" width="40" /></a>
-<a href="https://twitter.com/saifalbaghdadi3" target="blank"><img align="center" src="./img/twitter2.svg" alt="4214976" height="30" width="40" /></a>
-<a href="https://www.youtube.com/channel/UCYA7Fq54Hos6u8nMpTy41lA" target="blank"><img align="center" src="./img/youtube2.svg" alt="gautamkrishnar" height="30" width="40" /></a>
+<p align="center">
+<a href="https://www.linkedin.com/in/saif-malkshahi" target="blank"><img align="center" src="./img/linkedin.svg" alt="gautamkrishnar" height="30" width="40" /></a>
+<a href="https://www.facebook.com/saifalbaghdadi6" target="blank"><img align="center" src="./img/facebook.svg" alt="gautamkrishnar" height="30" width="40" /></a>
+<a href="https://www.instagram.com/saifalbaghdadi3" target="blank"><img align="center" src="./img/instagram.svg" alt="gautamkrishnar" height="30" width="40" /></a>
+<a href="https://twitter.com/saifalbaghdadi3" target="blank"><img align="center" src="./img/twitter.svg" alt="4214976" height="30" width="40" /></a>
+<a href="https://www.youtube.com/channel/UCYA7Fq54Hos6u8nMpTy41lA" target="blank"><img align="center" src="./img/youtube.svg" alt="gautamkrishnar" height="30" width="40" /></a>
 
 ---
 <h4 align="center"> Thank you for watching my profile ❤️ </h4>
