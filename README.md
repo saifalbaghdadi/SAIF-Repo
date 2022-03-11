@@ -87,4 +87,4 @@ I am also a big fan of technology, space science, artificial intelligence and ev
 <a href="https://www.youtube.com/channel/UCYA7Fq54Hos6u8nMpTy41lA" target="blank"><img align="center" src="./img/youtube.svg" alt="gautamkrishnar" height="30" width="40" /></a>
 
 ---
-<h4 align="center"> Thank you for watching my profile ❤️ </h4>
+<h4 align="right"> Thank you for watching my profile ❤️ </h4>
