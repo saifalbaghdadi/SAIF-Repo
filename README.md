@@ -1,16 +1,17 @@
 [![160744959694494596](./img/logo.png)](https://github.com/saifalbaghdadi?tab=repositories)
 
 ## Who I am
-
 My name is **Saif Malkshahi** , I am a junior Data Science at [Becode.org](https://becode.org) and I am passionate about AI and Data.
-If I would have to describe my character, I would say that I am a little bit a mix of an introvert/extravert. 
+<img align="right" alt="PNG" src="./img/hi.png" width="240px" data-canonical- style="max-width: 100%">
+If I would have to describe my character, I would say that I am a little bit a mix of an introvert / extravert.
 I like to be surrounded with people but I also appreciate to be alone.
-I find it very important to make time for myself each day. 
+I find it very important to make time for myself each day.        
 To practice sport ( like Bodybuilding or Jogging ), enables that I can be with my own and take care of myself. 
 I also enjoy to walk alone and listening to interesting podcasts at the same time. 
 I can be funny and social but I need to feel comfortable with people first 😄
 Besides to do sport, in my free time I really like to read books and to go to event related to art (music events, exhibitions, etc.).
 I am also a big fan of technology, space science, artificial intelligence and everything related to them, and I can engage in a whole day's discussion on these topics.
+
 #### One of my favorite Quotes for physicist Carl Sagan:
 <h4 align="center"> “Somewhere, something incredible is waiting to be known.” </h4>
 
@@ -24,7 +25,6 @@ I am also a big fan of technology, space science, artificial intelligence and ev
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2022 Goals: Learn more about data science and AI
 - ⚡ Fun fact: I love to draw and play guitar
-
 ---
 
 <img align="right" alt="saifalbaghdad Github Stats" src="https://github-readme-stats.vercel.app/api?username=saifalbaghdadi&show_icons=true&hide_border=true" />
