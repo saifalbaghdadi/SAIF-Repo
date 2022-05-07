@@ -3,6 +3,7 @@
 ## Who I am
 My name is **Saif Malkshahi** , I am a junior Data Science at [Becode.org](https://becode.org) and I am passionate about AI and Data.
 <img align="right" alt="PNG" src="./img/hi.png" width="240px" data-canonical- style="max-width: 100%">
+
 If I would have to describe my character, I would say that I am a little bit a mix of an introvert / extravert.
 I like to be surrounded with people but I also appreciate to be alone.
 I find it very important to make time for myself each day.        
