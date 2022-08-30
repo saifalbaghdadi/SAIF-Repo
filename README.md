@@ -14,9 +14,8 @@ I can be funny and social but I need to feel comfortable with people first 😄
 Besides to do sport, in my free time I really like to read books and to go to event related to art (music events, exhibitions, etc.).
 I am also a big fan of technology, space science, artificial intelligence and everything related to them, and I can engage in a whole day's discussion on these topics.
 
-#### One of my favorite Quotes:
-<h4 align="center"> “It's not who has the best algorithm that wins,
-                      It's who has the most data.” </h4>
+#### One of my favorite Carl Sagan quotes:
+<h4 align="center"> Somewhere, something incredible is waiting to be known.” </h4>
 
 ---
 
