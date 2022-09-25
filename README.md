@@ -1,7 +1,8 @@
 [![160744959694494596](./img/logo.png)](https://github.com/saifalbaghdadi?tab=repositories)
 
-## Who I am
-My name is **Saif Malkshahi** , I am a junior Data Science at [Becode.org](https://becode.org) and I am passionate about AI and Data.
+# Who I am !! <img src="https://raw.githubusercontent.com/saifalbaghdadi/saifalbaghdadi/development/img/Dog.gif" width="50">
+
+My name is **Saif Malkshahi** , I am Data Scienc and I live in Belgium.
 <br>
 <img align="right" alt="PNG" src="./img/hi.png" width="300px" data-canonical- style="max-width: 100%">
 <br>
@@ -28,6 +29,10 @@ I am also a big fan of technology, space science, artificial intelligence and ev
 - 🥅 2022 Goals: Learn more about data science and AI
 - ⚡ Fun fact: I love to draw and play guitar
 ---
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/saifalbaghdadi/saifalbaghdadi/b77ee61c1475cceabcff6d6fde52b32933ee2c20/img/github-contribution-grid-snake.svg" alt="snake"></center>
+</p>
 
 <img align="right" alt="saifalbaghdad Github Stats" src="https://github-readme-stats.vercel.app/api?username=saifalbaghdadi&show_icons=true&hide_border=true" />
 
@@ -94,4 +99,12 @@ I am also a big fan of technology, space science, artificial intelligence and ev
 
 ---
 
+<h3 align="center">Visitor Count</h3>
+<a align="center" href="https://profile-counter.glitch.me/{Apurva-tech}/count.svg">
+  
+  ![VisitorCount](https://profile-counter.glitch.me/{Apurva-tech}/count.svg)  
+  
+</a>
+
+---
 <h4 align="center"> ❤️ Thank you to watching my profile ❤️ </h4>
