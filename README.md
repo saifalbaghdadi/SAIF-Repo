@@ -1,6 +1,6 @@
 [![160744959694494596](./img/logo.png)](https://github.com/saifalbaghdadi?tab=repositories)
 
-# HI !! <img src="https://raw.githubusercontent.com/saifalbaghdadi/saifalbaghdadi/development/img/Dog.gif" width="50">
+# Hi <img src="https://raw.githubusercontent.com/saifalbaghdadi/saifalbaghdadi/development/img/Dog.gif" width="50">
 
 My name is **Saif Malkshahi** , I am Data Scienc and I live in Belgium.
 <br>
