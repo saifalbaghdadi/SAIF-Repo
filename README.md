@@ -2,7 +2,7 @@
 
 # HI <img src="https://raw.githubusercontent.com/saifalbaghdadi/saifalbaghdadi/development/img/Dog.gif" width="50">
 
-My name is **Saif Malkshahi** , I am Data Scienc and I live in Belgium.
+My name is **Saif Malkshahi** , I am Data Scientist, I live in Belgium.
 <br>
 <img align="right" alt="PNG" src="./img/hi.png" width="300px" data-canonical- style="max-width: 100%">
 <br>
