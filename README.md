@@ -81,13 +81,13 @@ I am also a big fan of technology, space science, artificial intelligence and ev
 <br>
 
 <p align="center">
-<a href="https://www.kaggle.com/saifalbaghdadi6" target="blank"><img align="center" src="./img/kaggle.svg" alt="gautamkrishnar" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/saif-malkshahi" target="blank"><img align="center" src="./img/linkedin.svg" alt="gautamkrishnar" height="30" width="40" /></a>
-<a href="https://www.facebook.com/saifalbaghdadi6" target="blank"><img align="center" src="./img/facebook.svg" alt="gautamkrishnar" height="30" width="40" /></a>
-<a href="https://www.instagram.com/saifalbaghdadi3" target="blank"><img align="center" src="./img/instagram.svg" alt="gautamkrishnar" height="30" width="40" /></a>
-<a href="https://twitter.com/saifalbaghdadi3" target="blank"><img align="center" src="./img/twitter.svg" alt="4214976" height="30" width="40" /></a>
-<a href="https://www.youtube.com/channel/UCYA7Fq54Hos6u8nMpTy41lA" target="blank"><img align="center" src="./img/youtube.svg" alt="gautamkrishnar" height="30" width="40" /></a>
 <a href="https://github.com/saifalbaghdadi/saifalbaghdadi/blob/development/img/Saif%20Malkshahi%20CV%20EN.pdf" target="blank"><img align="center" src="./img/CV.svg" alt="gautamkrishnar" height="40" width="40" /></a>
+<a href="https://www.linkedin.com/in/saif-malkshahi" target="blank"><img align="center" src="./img/linkedin.svg" alt="gautamkrishnar" height="30" width="40" /></a>
+<a href="https://www.coursera.org/learner/saif-malkshahi-3691" target="blank"><img align="center" src="./img/coursera-logo.svg" alt="gautamkrishnar" height="30" width="40" /></a>
+<a href="https://www.kaggle.com/saifalbaghdadi6" target="blank"><img align="center" src="./img/kaggle.svg" alt="gautamkrishnar" height="30" width="40" /></a>
+<a href="https://www.instagram.com/saifalbaghdadi3" target="blank"><img align="center" src="./img/instagram.svg" alt="gautamkrishnar" height="30" width="40" /></a>
+<a href="https://www.facebook.com/saifalbaghdadi6" target="blank"><img align="center" src="./img/facebook.svg" alt="gautamkrishnar" height="30" width="40" /></a>
+<a href="https://twitter.com/saifalbaghdadi3" target="blank"><img align="center" src="./img/X-logo.svg" alt="4214976" height="30" width="40" /></a>
 <br>
 <br>
 
