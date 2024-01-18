@@ -22,11 +22,9 @@ I am also a big fan of technology, space science, artificial intelligence and ev
 
 ## I'm just a normal person like everyone else 👋 
 
-- 🔭 Previously, I was a software engineer 😅
-- 👨‍🎓 Now , I pursuing a course in data science at [Becode.org](https://becode.org)
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
-- 🥅 2022 Goals: Learn more about data science and AI
+- 🥅 2024 Goals: Learn more about data science and AI
 - ⚡ Fun fact: I love to draw and play guitar
 ---
 
@@ -62,15 +60,13 @@ I am also a big fan of technology, space science, artificial intelligence and ev
 ---
 
 ## The three things I like the most in this universe
-- 🌌 Space Science 
-- 🚀 New Technologies 
+- 🤖 AI
+-  🚀 New Technologies 
 - 🍉 Healthy food 
 
 ## I look forward to:
 - Deepening my knowledge in New Technology
-- Build my first Robot 🤖
-- Practice my English with the Becode people from abroad
-- Looking for a new interesting job in IT
+- Looking for a new interesting job as a Data Scientist
 
 ## Three things I value the most to work as a team:
 - Communication
@@ -80,8 +76,6 @@ I am also a big fan of technology, space science, artificial intelligence and ev
 ## Fears I might have:
 - Being stuck during hours with the same bug
 - Having trouble to reach for help
-- Forgetting to feed the birds when I get home late 🦜
-
 ---
 ## Connect with me:
 <br>
@@ -93,7 +87,7 @@ I am also a big fan of technology, space science, artificial intelligence and ev
 <a href="https://www.instagram.com/saifalbaghdadi3" target="blank"><img align="center" src="./img/instagram.svg" alt="gautamkrishnar" height="30" width="40" /></a>
 <a href="https://twitter.com/saifalbaghdadi3" target="blank"><img align="center" src="./img/twitter.svg" alt="4214976" height="30" width="40" /></a>
 <a href="https://www.youtube.com/channel/UCYA7Fq54Hos6u8nMpTy41lA" target="blank"><img align="center" src="./img/youtube.svg" alt="gautamkrishnar" height="30" width="40" /></a>
-<a href="https://raw.githubusercontent.com/saifalbaghdadi/saifalbaghdadi/development/img/Saif%20Malkshahi%20CV_Image.jpg" target="blank"><img align="center" src="./img/CV.svg" alt="gautamkrishnar" height="40" width="40" /></a>
+<a href="https://github.com/saifalbaghdadi/saifalbaghdadi/blob/development/img/Saif%20Malkshahi%20CV%20EN.pdf" target="blank"><img align="center" src="./img/CV.svg" alt="gautamkrishnar" height="40" width="40" /></a>
 <br>
 <br>
 
