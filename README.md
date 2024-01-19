@@ -86,7 +86,6 @@ I am also a big fan of technology, space science, artificial intelligence and ev
 <a href="https://www.coursera.org/learner/saif-malkshahi-3691" target="blank"><img align="center" src="./img/coursera-logo.svg" alt="gautamkrishnar" height="30" width="40" /></a>
 <a href="https://www.kaggle.com/saifalbaghdadi6" target="blank"><img align="center" src="./img/kaggle.svg" alt="gautamkrishnar" height="30" width="40" /></a>
 <a href="https://www.instagram.com/saifalbaghdadi3" target="blank"><img align="center" src="./img/instagram.svg" alt="gautamkrishnar" height="30" width="40" /></a>
-<a href="https://www.facebook.com/saifalbaghdadi6" target="blank"><img align="center" src="./img/facebook.svg" alt="gautamkrishnar" height="30" width="40" /></a>
 <a href="https://twitter.com/saifalbaghdadi3" target="blank"><img align="center" src="./img/X-logo.svg" alt="4214976" height="30" width="40" /></a>
 <br>
 <br>
